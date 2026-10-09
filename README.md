@@ -131,7 +131,7 @@ External JavaScript libraries are loaded through CDNs, so an internet connection
 
 
 
-3. Open `file:///C:/Users/CAPACITI-JHB/Downloads/SentiBI_Studio%20(3).html` in a modern web browser.
+ Open `https://capeitinitiative.sharepoint.com/:u:/s/Demand32026/IQAbt73pLs96S55PNyhAu496AUmzk7ycKpr2MnJFWHv221Q?e=dB89xS` in a modern web browser.
 
 
 ## Example Use Case
