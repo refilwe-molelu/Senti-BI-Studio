@@ -129,29 +129,10 @@ External JavaScript libraries are loaded through CDNs, so an internet connection
 
 ## Getting Started
 
-### Option 1: Run Locally
 
-1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-   ```
+3. Open `file:///C:/Users/CAPACITI-JHB/Downloads/SentiBI_Studio%20(3).html` in a modern web browser.
 
-2. Open the project folder.
-
-3. Open `SentiBI_Studio.html` in a modern web browser.
-
-4. Select **Load sample dataset** to explore the prototype.
-
-5. Upload your own Excel or CSV file to test the workflow.
-
-No backend server is required for the current prototype.
-
-### Option 2: Host the Prototype
-
-The static application can be hosted using GitHub Pages or another static website hosting service.
-
-Before publishing, review the repository contents and avoid uploading confidential customer datasets or other sensitive information.
 
 ## Example Use Case
 
